@@ -1,15 +1,18 @@
+
 # youtube-video-downloader-node
-cli based youtube video downloader inlcluding  playlist and quality support
+
+cli based youtube video downloader inlcluding  playlist downloading,audio-downloading, quality selection support
 
 ## Usage
 
-'''
-	npm install
-	node main.js
-'''
+``` bash
+npm install
+node main.js
+
+```
 
 ### features
 
-Download playlists
-Download videos
-Selct quality
+Download playlists,
+Download videos,
+Select download quality
