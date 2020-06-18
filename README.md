@@ -1,7 +1,7 @@
 
 # youtube-video-downloader-node
 
-cli based youtube video downloader inlcluding  playlist downloading,audio-downloading, quality selection support
+cli ,nodejs based youtube video downloader inlcluding  playlist downloading,audio-downloading, quality selection support
 
 ## Usage
 
