@@ -101,6 +101,7 @@ const a = ytpl(playlistId, function (err, playlist) {
 })
 }
 else{
+  inputQuality();
   const fileName = readline.question('enter filename to save : ');
 
   downloadFile(type, fileName, "video")
